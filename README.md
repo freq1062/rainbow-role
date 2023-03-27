@@ -1,2 +1,2 @@
 # rainbow-role
-Another bot in Vendetta League that gave nitro boosters custom colour cycling roles, in compliance with Discord's API limits(Approximately). 
+First version of an idea where nitro boosters in Vendetta League would get colour changing roles.
